@@ -2,7 +2,7 @@
 <h1 align="center">
 Rapid Prototyping with React and the Zeppelin Design System
 </h1>
-<p>Check out the [video](https://www.youtube.com/watch?v=IXpWyt5tz34) that goes along with this project!</p>
+<p align="center">Check out the [video](https://www.youtube.com/watch?v=IXpWyt5tz34) that goes along with this project!</p>
 <p align="center">
  Brought to you by: ZDigit Data Analytics
 </p>
